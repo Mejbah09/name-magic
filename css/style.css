@@ -1,0 +1,59 @@
+/* common css start */
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing:border-box;
+}
+ul{
+ list-style-type: none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+div{
+    
+   
+    width: 50%;
+    height: 419px;
+    background-color: #ADEFD1FF;
+}
+label{
+     
+     font-size: 25px;
+     font-size: 51px;
+     font-weight: bolder;
+     display: block;
+     /* margin: auto; */
+     border: 3px dotted red;
+     width: 500px;
+     
+     color: red;
+     background-color: black;
+     margin-left: 54px;
+     margin-top: 25px;
+}
+#name{
+    text-align: center;
+    font-size: 15px;
+    color:#5F4B8BFF;
+    background:#E69A8DFF;
+    font-weight: bold;
+    margin-left: 171px;
+    display: block;
+}
+button{
+    padding: 10px 100px;
+    margin-left: 58px;
+    font-size: 18px;
+    color: #FEE715FF;
+    background-color: #101820FF;
+
+}
+#reset{
+    padding: 10px 30px;
+     margin-right: 0px;
+    font-size: 18px;
+    color: #FEE715FF;
+    background-color: #101820FF;   
+}
